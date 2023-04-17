@@ -1,0 +1,3 @@
+Read me for...
+ 0-memset.c        101-crackme_password  2-strchr.c  4-strpbrk.c  7-print_chessboard.c  main.h      README.md
+100-set_string.c  1-memcpy.c            3-strspn.c  5-strstr.c   8-print_diagsums.c    _putchar.c
